@@ -1,4 +1,4 @@
-Personal website: https://www.rishikavikondala.com/
+https://www.rishikavikondala.com/
 
 <!--
 **rishikavikondala/rishikavikondala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
